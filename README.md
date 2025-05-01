@@ -44,8 +44,3 @@ Interested in collaborating or have feedback?
 
 Reach out via [LinkedIn] -> https://www.linkedin.com/in/cesar-c-3b76341b/ or open an issue in the repo.
 
----
-
-> “Without data, you're just another person with an opinion.” – W. Edwards Deming
-
-
